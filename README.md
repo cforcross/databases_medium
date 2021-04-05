@@ -142,7 +142,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 <!-- CONTACT -->
 ## Contact
 
-[@twitter_handle](https://twitter.com/chowacross) 
+[@twitter](https://twitter.com/chowacross) 
 
 [github](https://github.com/cforcross/databases_medium.git)
 
