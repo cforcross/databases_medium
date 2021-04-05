@@ -29,24 +29,24 @@
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  <a href="https://github.com/cforcross/User-Authentication-Web-App">
+  <a href="https://github.com/cforcross/databases_medium">
 <!--     <img src="images/logo.png" alt="Logo" width="80" height="80"> -->
   </a>
 
-  <h3 align="center">User Authentication Web App</h3>
+  <h3 align="center">Populate Django Database Using fixtures</h3>
 
   <p align="center">
-   This broject is aimed at solving the nuances involved in creating a user authentication end to end with django and also
-  shows how to create user profiles using signals 
+   This broject is for a blog post aimed at teaching how to populate your Django database using fixtures 
+  instead of the traditional method 
     <br />
-    <a href="https://github.com/cforcross/User-Authentication-Web-App"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/cforcross/databases_medium"><strong>Explore the docs »</strong></a>
     <br />
     <br />
     <a href="">View Demo</a>
     ·
-    <a href="https://github.com/cforcross/User-Authentication-Web-App/issues">Report Bug</a>
+    <a href=https://github.com/cforcross/databases_medium/issues">Report Bug</a>
     ·
-    <a href="https://github.com/cforcross/User-Authentication-Web-App/issues">Request Feature</a>
+    <a href="https://github.com/cforcross/databases_medium/issues">Request Feature</a>
   </p>
 </p>
 
@@ -72,15 +72,13 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-![GitHub Logo](/images/chowacross_1.PNG)
+
 
 ### Built With
 
-* python 3.8
-* django 3.0
-* django-bootstrap4
-* bootstrap4
-* fontawesome
+* python 3.6
+* django 3.1
+
 
 
 
@@ -99,7 +97,7 @@ download python
 
 1. Clone the repo
 ```sh
-git clone https://github.com/cforcross/User-Authentication-Web-App.git
+git clone https://github.com/cforcross/databases_medium.git
 ```
 2. Install requirements.txt
 ```sh
@@ -108,11 +106,7 @@ pip install requirements.txt
 <!-- USAGE EXAMPLES -->
 ## Usage
 ###### Project Dashboard
-![GitHub Logo](/images/chowacross_2.PNG)
 
-The above showcases the user dashboard after the given user has registerd and sign in, giving him/her the ability to Edit,and change passwords.And the sounds out.This takes
-then to the next page which gives them the ability to sign back into the application and if they can't remember their password,a password forgotten link is availalbe for 
-them to then follow the steps inorde to reset their password
 
 _For more examples, please refer to the [Video demo](https://example.com)_
 
@@ -121,7 +115,7 @@ _For more examples, please refer to the [Video demo](https://example.com)_
 <!-- ROADMAP -->
 ## Roadmap
 
-See the [open issues](https://github.com/cforcross/User-Authentication-Web-App/issues) for a list of proposed features (and known issues).
+See the [open issues](https://github.com/cforcross/databases_medium/issues) for a list of proposed features (and known issues).
 
 
 
@@ -150,13 +144,13 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 [@twitter_handle](https://twitter.com/chowacross) 
 
-[github](https://github.com/cforcross/User-Authentication-Web-App.git)
+[github](https://github.com/cforcross/databases_medium.git)
 
 
 [linknd](https://www.linkedin.com/in/chowa-cross-4380a858/)
 
 
-[instagram](https://www.instagram.com/chowagroup/)
+[instagram](https://www.instagram.com/cforcross/)
 
 
 
@@ -165,9 +159,6 @@ Distributed under the MIT License. See `LICENSE` for more information.
 i'll begin by acknowledging the amazing guys at python,github and bootstrap,fontawesome the amazing work they do
 * [python](https://www.python.org/)
 * [Django](https://docs.djangoproject.com/en/3.1)
-* [fontawsome](https://fontawesome.com/)
-* [REadmetemplate](https://github.com/othneildrew/Best-README-Template)
-* [ Antonio Mele](https://www.packtpub.com/product/django-3-by-example-third-edition/9781838981952)
 
 
 <!-- MARKDOWN LINKS & IMAGES -->
