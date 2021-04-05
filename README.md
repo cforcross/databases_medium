@@ -156,7 +156,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 <!-- ACKNOWLEDGEMENTS -->
 ## Acknowledgements
-i'll begin by acknowledging the amazing guys at python,github and bootstrap,fontawesome the amazing work they do
+i'll begin by acknowledging the amazing guys at python,github for the amazing work they do
 * [python](https://www.python.org/)
 * [Django](https://docs.djangoproject.com/en/3.1)
 
